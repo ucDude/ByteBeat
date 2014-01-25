@@ -16,6 +16,7 @@
  * "Songs" aka Formulas with Title and Artist info from this text file
  * http://pelulamu.net/countercomplex/music_formula_collection.txt
  *
+ *                       https://github.com/ucDude/ByteBeat/
  * --------------------------- ucDude.wordpress.com -------------------------*/
 
 
